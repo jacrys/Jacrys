@@ -1,6 +1,6 @@
 
 ### Languages I Use:
-<img algin='left' alt='ASP.NET Core' title=='ASP.NET Core 188/300' width='372px' height='186px' src='https://images.youracclaim.com/size/340x340/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png'/>![](https://i.stack.imgur.com/07ZIW.png) ![C#](https://i.stack.imgur.com/b3G06.png) ![Python](https://i.stack.imgur.com/XmujW.png) ![MySQL](https://i.stack.imgur.com/jCT8U.png) ![CSS](https://i.stack.imgur.com/T2DY5.png) ![HTML5](https://i.stack.imgur.com/DmhjW.png) ![jQuery](https://i.stack.imgur.com/Drr5K.png) ![Javascript](https://i.stack.imgur.com/7VJUm.png)
+<img align='left' alt='ASP.NET Core' title=='ASP.NET Core 188/300' width='372px' height='186px' src='https://images.youracclaim.com/size/340x340/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png' /> ![](https://i.stack.imgur.com/07ZIW.png) ![C#](https://i.stack.imgur.com/b3G06.png) ![Python](https://i.stack.imgur.com/XmujW.png) ![MySQL](https://i.stack.imgur.com/jCT8U.png) ![CSS](https://i.stack.imgur.com/T2DY5.png) ![HTML5](https://i.stack.imgur.com/DmhjW.png) ![jQuery](https://i.stack.imgur.com/Drr5K.png) ![Javascript](https://i.stack.imgur.com/7VJUm.png)
 
 ### My Certs:
 
