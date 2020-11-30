@@ -1,6 +1,6 @@
 
 ### Languages I Use:
-<img align='left' alt='ASP.NET Core' title='ASP.NET Core 188/300' width='372px' height='186px' src='https://i.stack.imgur.com/07ZIW.png'> ![C#](https://i.stack.imgur.com/b3G06.png) ![Python](https://i.stack.imgur.com/XmujW.png) ![MySQL](https://i.stack.imgur.com/jCT8U.png) ![CSS](https://i.stack.imgur.com/T2DY5.png) ![HTML5](https://i.stack.imgur.com/DmhjW.png) ![jQuery](https://i.stack.imgur.com/Drr5K.png) ![Javascript](https://i.stack.imgur.com/7VJUm.png)
+<img alt='ASP.NET Core' title='ASP.NET Core 188/300' width='300px' height='150px' src='https://i.stack.imgur.com/07ZIW.png'> <img alt='C#' title='C# 197/300' width='300px' height='150px' src='https://i.stack.imgur.com/b3G06.png'> <img alt='Python' title='Python 164/300' width='300px' height='150px' src='https://i.stack.imgur.com/XmujW.png'> <img alt='MySQL' title='MySQL 212/300' width='300px' height='150px' src='https://i.stack.imgur.com/jCT8U.png'> <img alt='CSS' title='CSS 194/300' width='300px' height='150px' src='https://i.stack.imgur.com/T2DY5.png'> <img alt='HTML 5' title='HTML 5 211/300' width='300px' height='150px' src='https://i.stack.imgur.com/DmhjW.png'> <img alt='jQuery' title='jQuery 157/300' width='300px' height='150px' src='https://i.stack.imgur.com/Drr5K.png'> <img alt='JavaScript' title='JavaScript 160/300' width='300px' height='150px' src='https://i.stack.imgur.com/7VJUm.png'>
 
 ### My Certs:
 
