@@ -1,7 +1,7 @@
 ![Me](https://avatars2.githubusercontent.com/u/3784287?s=460&u=632988573fe4921d8cd30ce6411359d506dfc579&v=4)
 
 ###Languages I Use
-![.NET Core](https://i.stack.imgur.com/07ZIW.png) ![C#](https://i.stack.imgur.com/b3G06.png =250x250) ![Python](https://i.stack.imgur.com/XmujW.png =250x250) ![MySQL](https://i.stack.imgur.com/jCT8U.png =250x250) ![CSS](https://i.stack.imgur.com/T2DY5.png =250x250) ![HTML5](https://i.stack.imgur.com/DmhjW.png =250x250) ![jQuery](https://i.stack.imgur.com/Drr5K.png =250x250) ![Javascript](https://i.stack.imgur.com/7VJUm.png =250x250)
+![.NET Core](https://i.stack.imgur.com/07ZIW.png) ![C#](https://i.stack.imgur.com/b3G06.png) ![Python](https://i.stack.imgur.com/XmujW.png) ![MySQL](https://i.stack.imgur.com/jCT8U.png) ![CSS](https://i.stack.imgur.com/T2DY5.png) ![HTML5](https://i.stack.imgur.com/DmhjW.png) ![jQuery](https://i.stack.imgur.com/Drr5K.png) ![Javascript](https://i.stack.imgur.com/7VJUm.png)
 
 My Certs:
 
