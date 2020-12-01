@@ -36,3 +36,4 @@ figcaption {
     padding: 3px;
     text-align: center;
 }
+</style>
