@@ -1,6 +1,9 @@
 
 ### [StackOverflow Story](https://stackoverflow.com/story/jacrys)
 
+### About Me
+I am a 38 yr old polyglot developer(C#, JS, Python, C++, some Ruby) with a penchant for never saying can't.  It may be ugly, but I will find a way.  I have been using C# since 2001 with total experience sitting somewhere around 6 years, JS for about 6 years, and Python for about 2 years. I have 2 kids and the living embodiment of Church from Pet Semetary.  
+
 ### [My Résumé](https://registry.jsonresume.org/jacrys)
 
 ### Languages I Use:
