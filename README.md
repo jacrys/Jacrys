@@ -16,5 +16,5 @@ I am somewhat neophytic in the programming world.  I have only been doing develo
 
 ### My Certs:
 
-<a href='https://www.youracclaim.com/badges/ffd7fd21-b0af-4e48-a4a7-17e537b7fc09'><img alt="CompTIA A+" title="CompTIA A+" width="300px" height="300px" src='https://images.youracclaim.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png'></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.youracclaim.com/badges/e75a7734-ecf7-4723-a43b-02ba5706eb08'><img alt='CompTIA Project+' title='CompTIA Project+' width="300px" height="300px" src='https://images.youracclaim.com/size/340x340/images/be6dfc3d-f8a1-4c18-8b16-751600ef61c8/CompTIA_Project_2B.png'></a>
+<a href='https://www.youracclaim.com/badges/e75a7734-ecf7-4723-a43b-02ba5706eb08'><img alt="CompTIA A+" title="CompTIA A+" width="300px" height="300px" src='https://images.youracclaim.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png'></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.youracclaim.com/badges/ffd7fd21-b0af-4e48-a4a7-17e537b7fc09'><img alt='CompTIA Project+' title='CompTIA Project+' width="300px" height="300px" src='https://images.youracclaim.com/size/340x340/images/be6dfc3d-f8a1-4c18-8b16-751600ef61c8/CompTIA_Project_2B.png'></a>
 
