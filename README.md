@@ -8,7 +8,7 @@ I am a 38 yr old polyglot developer(C#, JS, Python, C++, some Ruby) with a pench
 
 I am somewhat neophytic in the programming world.  I have only been doing development professionally for the last 6 years.  Wait What did I do before that I hear you ask, waiting with bated breath (ok maybe not, but I am going to tell you anyway.)  Since I was a tot, I wanted to be a Veterinarian.  Companion animals mostly.  I fought through ADHD-fueled apathy about school in general and then fought through ADHD-feuled apathy about college until I found myself not getting into Vet School (It's really competitive, a doctor of mine joked that the A students at MU went to Vet School, the B & C students became doctors).  What was I going to do now?  I have spent the last 6 years driving toward this singular goal, and now it is all but unattainable....  Well, my father was a Mechanical Engineer designing those huge dump trucks you see on mining sites, and taught me how to build computers at 8 (To all you Gen-Z, that was a lot more impressive in the 80's & early 90's than it is now).  I levied that into a job supporting HP notebooks, which I leveraged my Excel Skillz™ to get on the fledgling reporting team.  This I leveraged to get a job at Expedia supporting Hotel Operations (bsically NOC for their Large and Medium Hotel partners).  It was here that I got my first taste of the code in a production environment.  I was hooked.  I have been absorbing it ever since like a sponge.  
 
-### [My Résumé](https://jacrys.github.io/jacrys-resume/)
+### [My Résumé](https://resume.jacrys.com/)
 
 <!--### [My Résumé](https://registry.jsonresume.org/jacrys)-->
 
