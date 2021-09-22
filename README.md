@@ -13,17 +13,17 @@ I am somewhat neophytic in the programming world.  I have only been doing develo
 <!--### [My Résumé](https://registry.jsonresume.org/jacrys)-->
 
 ### My Stats
-[![Jacrys' GitHub stats](https://github-readme-stats.vercel.app/api?username=jacrys&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/jacrys/github-readme-stats)
+[![Jacrys' GitHub stats](https://github-readme-stats.vercel.app/api?username=jacrys&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Wakatime Stats
-[![Jacrys' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jacrys&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/Jacrys/github-readme-stats)
+[![Jacrys' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jacrys&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages I Use:
 
 <img alt='ASP.NET Core 188/300' title='ASP.NET Core 188/300' width="280px" height="140px" src='https://i.stack.imgur.com/07ZIW.png'>&nbsp;<img alt='C# 197/300' title='C# 197/300' width="280px" height="140px" src='https://i.stack.imgur.com/b3G06.png'>&nbsp;<img alt='Python 164/300' title='Python 164/300' width="280px" height="140px" src='https://i.stack.imgur.com/XmujW.png'> <img alt='MySQL 212/300' title='MySQL 212/300' width="280px" height="140px" src='https://i.stack.imgur.com/jCT8U.png'>&nbsp;<img alt='CSS 194/300' title='CSS 194/300' width="280px" height="140px" src='https://i.stack.imgur.com/T2DY5.png'>&nbsp;<img alt='HTML 5 211/300' title='HTML 5 211/300' width="280px" height="140px" src='https://i.stack.imgur.com/DmhjW.png'> <img alt='jQuery 157/300' title='jQuery 157/300' width="280px" height="140px" src='https://i.stack.imgur.com/Drr5K.png'>&nbsp;<img alt='JavaScript 160/300' title='JavaScript 160/300' width="280px" height="140px" src='https://i.stack.imgur.com/7VJUm.png'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacrys&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/jacrys/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacrys&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Certs:
 
