@@ -1,6 +1,6 @@
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jacrys/my-stack)
 
-### [StackOverflow Story](https://stackoverflow.com/story/jacrys)
+<!--### [StackOverflow Story](https://stackoverflow.com/story/jacrys)-->
 
 ### About Me
 I am a 38 yr old polyglot developer(C#, JS, Python, C++, some Ruby) with a penchant for never saying can't.  It may be ugly, but I will find a way.  I have been using C# since 2001 with total experience sitting somewhere around 6 years, JS for about 6 years, and Python for about 2 years. I have 2 kids and the living embodiment of Church from Pet Semetary.  
