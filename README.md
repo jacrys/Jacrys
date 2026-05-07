@@ -28,5 +28,5 @@ I have been doing development professionally for the last 10 years.  Wait What d
 
 ### My Certs:
 
-<a href='https://www.youracclaim.com/badges/e75a7734-ecf7-4723-a43b-02ba5706eb08'><img alt="CompTIA A+" title="CompTIA A+" width="300px" height="300px" src='https://images.youracclaim.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png'></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.youracclaim.com/badges/ffd7fd21-b0af-4e48-a4a7-17e537b7fc09'><img alt='CompTIA Project+' title='CompTIA Project+' width="300px" height="300px" src='https://images.youracclaim.com/size/340x340/images/be6dfc3d-f8a1-4c18-8b16-751600ef61c8/CompTIA_Project_2B.png'></a>
+<a href='https://www.credly.com/earner/earned/badge/c1b0ebb6-e2f1-4275-8042-2a4d9e8df62e'><img alt="CompTIA A+" title="CompTIA A+" width="300px" height="300px" src='https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob'></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.credly.com/badges/f87c92f4-a2c7-4032-b9e1-dda80499b720'><img alt='CompTIA Project+' title='CompTIA Project+' width="300px" height="300px" src='https://images.credly.com/size/340x340/images/16e139a1-0b3d-4bef-a0c6-56356ad944a6/blob'></a>
 
